@@ -62,11 +62,11 @@ if (!used[u]) {
 
 ### Alguns Usos 
 
-- Encontre o caminho mais curto de uma fonte para outros vértices em um gráfico não ponderado;
-- Encontre todos os componentes conectados em um gráfico não direcionado em O(n+m);
+- Encontrar o caminho mais curto de uma fonte para outros vértices em um gráfico não ponderado;
+- Encontrar todos os componentes conectados em um gráfico não direcionado em O(n+m);
 - Encontrar a solução para um problema ou jogo (xadrez por exemplo) ou menor quantidade de determinados calculos para chegar a um resultado com o menor número de movimentos;
 - Encontrar o caminho mais curto em um grafo com pesos 0 ou 1;
-- Encontrando o ciclo mais curto em um gráfico direcionado não ponderado.
+- Encontrar o ciclo mais curto em um gráfico direcionado não ponderado.
 
 
 
