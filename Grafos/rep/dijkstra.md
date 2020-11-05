@@ -8,7 +8,7 @@ Esse problema também é chamado de problema de caminhos mais curtos de fonte ú
 
 Vamos criar um array ***d[ ]*** onde para cada vértice ***v*** armazenamos o comprimento atual do caminho mais curto de ***s*** para ***v*** no ***d[v]***. Inicialmente ***d[s] = 0***, e para todos os outros vértices, esse comprimento é igual ao infinito. Na implementação, um número suficientemente grande é escolhido como infinito.
 
-<img src="https://latex.codecogs.com/svg.latex?\ d[ v ] = \infty , v \neq s" alt=""/>
+d[v]=∞,v≠s
 
 Além disso, mantemos uma matriz booleana ***u [ ]*** que armazena para cada vértice ***v*** se está marcado. Inicialmente, todos os vértices estão desmarcados:
 
