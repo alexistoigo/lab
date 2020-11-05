@@ -8,15 +8,15 @@ Esse problema também é chamado de problema de caminhos mais curtos de fonte ú
 
 Vamos criar um array ***d[ ]*** onde para cada vértice ***v*** armazenamos o comprimento atual do caminho mais curto de ***s*** para ***v*** no ***d[v]***. Inicialmente ***d[s] = 0***, e para todos os outros vértices, esse comprimento é igual ao infinito. Na implementação, um número suficientemente grande é escolhido como infinito.
 
-d[v]=∞,v≠s
+***d [ v ] = ∞, v ≠ s***
 
 Além disso, mantemos uma matriz booleana ***u [ ]*** que armazena para cada vértice ***v*** se está marcado. Inicialmente, todos os vértices estão desmarcados:
 
-<img src="https://latex.codecogs.com/svg.latex?\ u [ v ] = false" alt=""/>
+***u [ v ] = false***
 
 O algoritmo de Dijkstra funciona para ***n*** iterações. Em cada iteração, um vértice não marcado  ***v*** é escolhido o que tem o menor valor ***d[v]***:
 
-<img src="https://latex.codecogs.com/svg.latex?\ d[to]=min(d[to],d[v]+len)" alt=""/>
+***d [to] = min(d[to], d[v] + len)***
 
 Depois que todas essas arestas são verificadas, a iteração atual termina. Finalmente, depois de ***n*** iterações, todos os vértices serão marcados e o algoritmo termina. Afirmamos que os valores encontrados ***d[v]*** são as distâncias dos caminhos mais curtos de ***s*** para todos os vértices ***v***.
 
