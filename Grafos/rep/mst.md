@@ -1,3 +1,5 @@
+[Grafos]
+
 # Árvore Geradora Mínima - MST
 
 Dado um gráfico não direcionado ponderado. Queremos encontrar uma sub árvore desse grafo que conecte todos os vértices (ou seja, é uma árvore geradora) e tenha o menor peso (ou seja, a soma dos pesos de todas as arestas é mínima) de todas as árvores geradoras possíveis. Essa árvore de abrangência é chamada de árvore de abrangência mínima.
@@ -81,3 +83,5 @@ void union_sets(int a, int b) {
 }
 
 ````
+
+[Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos

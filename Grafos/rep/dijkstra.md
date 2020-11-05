@@ -1,3 +1,5 @@
+[Grafos]
+
 # Dijkstra
 
 Você recebe um gráfico ponderado direcionado ou não direcionado com **n** vértices e **m** arestas. Os pesos de todas as arestas não podem ser negativas. Também recebe um vértice inicial **s**. Este artigo discute a localização dos comprimentos dos caminhos mais curtos de um vértice inicial **s** para todos os outros vértices, e produzir os caminhos mais curtos.
@@ -75,3 +77,4 @@ A função pega o vértice inicial ***s*** e dois vetores que serão usados como
 Em primeiro lugar, o código inicializa arrays: distâncias ***d[ ]***, rótulos ***v [ ]*** e predecessores/pais ***p [ ]***. Então ele executa ***n*** iterações. Em cada iteração, do vértice ***v***, é selecionado o que tem a menor distância ***d[ v ]*** entre todos os vértices não marcados. Se a distância para o vértice selecionado ***v*** é igual ao infinito, o algoritmo para. Caso contrário, o vértice é marcado e todas as arestas que saem desse vértice são verificadas. Se o relaxamento ao longo da borda for possível (ou seja, distância ***d[ to ]*** pode ser melhorada), a distância ***d[ to ]*** e predecessor ***p [ to ]*** são atualizados.
 
 
+[back]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos

@@ -1,3 +1,5 @@
+[Grafos]
+
 # Floyd-Warshall
 
 Dado um gráfico não direcionado ***G*** com ***n*** vértices. A tarefa é encontrar o caminho mais curto de ***d {i, j}*** entre cada par de vértices **i** e **j**.
@@ -42,3 +44,4 @@ for (int k = 0; k < n; ++k) {
 
 É assumido que se não houver aresta entre quaisquer dois vértices **i** e **j**, então a matriz em ***d[ i ][ j ]*** contém um grande número (grande o suficiente para ser maior do que o comprimento de qualquer caminho neste grafo). Então, esse caminho sempre será inútil para pegar, e o algoritmo funcionará corretamente.
 
+[Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos

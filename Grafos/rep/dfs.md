@@ -1,3 +1,5 @@
+[Grafos]
+
 # Busca em Profundidade - DFS
 
 A DFS é um dos principais algoritmos de grafos.
@@ -64,5 +66,6 @@ void dfs(int v) {
 - Encontrar pontes em um grafo não direcionado.
 
 
+[Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos
 [Busca em Largura - BFS]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/bfs.md#busca-em-largura---bfs
 [LCA]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/lca.md#menor-ancestral-comum---lca
