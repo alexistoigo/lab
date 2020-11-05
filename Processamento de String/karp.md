@@ -40,5 +40,5 @@ vector<int> rabin_karp(string const& s, string const& t) {
 }
 ````
 
-[String]: https://github.com/alexistoigo/lab/blob/master/Processamento%20de%20String/main.md
-[String Hashing]: https://github.com/alexistoigo/lab/blob/master/Processamento%20de%20String/hashing.md
+[String]: https://github.com/alexistoigo/lab/blob/master/Processamento%20de%20String/main.md#processamento-de-string
+[String Hashing]: https://github.com/alexistoigo/lab/blob/master/Processamento%20de%20String/hashing.md#string-hashing
