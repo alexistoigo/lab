@@ -4,6 +4,8 @@
 - [Busca em Profundidade - DFS]
 - [Dijkstra]
 - [Árvore Geradora Mínima - MST]
+- [Floyd Warshall]
+- [Menor Ancestral Comum - LCA]
 
 
 
@@ -12,6 +14,7 @@
 [Busca em Profundidade - DFS]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/dfs.md#busca-em-profundidade---dfs
 [Dijkstra]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/dijkstra.md#dijkstra
 [Árvore Geradora Mínima - MST]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/mst.md#%C3%A1rvore-geradora-m%C3%ADnima---mst
-
+[Floyd Warshall]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/floyd-warshall.md#floyd-warshall
+[Menor Ancestral Comum - LCA]: todo
 
 
