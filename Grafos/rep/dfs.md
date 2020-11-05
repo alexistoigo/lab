@@ -65,4 +65,4 @@ void dfs(int v) {
 
 
 [Busca em Largura - BFS]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/bfs.md#busca-em-largura---bfs
-[LCA]: //@TODO
+[LCA]: https://github.com/alexistoigo/lab/blob/master/Grafos/rep/lca.md#menor-ancestral-comum---lca
