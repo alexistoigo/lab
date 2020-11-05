@@ -4,7 +4,6 @@
 
 - [String Hashing]
 - [Rabin-Karp]
-- [Função de Prefixos]
 - [Árvore de Sufixos]
 - [Sufixo Autômato]
 
