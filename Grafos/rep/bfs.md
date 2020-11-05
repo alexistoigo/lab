@@ -1,3 +1,5 @@
+[Grafos]
+
 # Busca em Largura - BFS
 
 A busca em largura é um dos algoritmos de pesquisa básicos e essenciais em gráficos.
@@ -69,5 +71,6 @@ if (!used[u]) {
 - Encontrar o ciclo mais curto em um gráfico direcionado não ponderado.
 
 
+[Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos
 
 
