@@ -60,6 +60,8 @@ for (Edge e : edges) {
 
 Complexibilidade ***O(M logN)***
 
+Onde com os vertices classificados devem ser percorridos e verificar se o vertice atual pertence a algum set e adicionando-o.
+
 ````cpp
 void make_set(int v) {
     parent[v] = v;
