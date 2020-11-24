@@ -1,6 +1,6 @@
 [Algo]
 
-#Matemática
+# Matemática
 
 - [Exponenciação Binária]
 - [Algoritmo de Euclides]
@@ -12,8 +12,8 @@
 
 
 [Algo]: https://github.com/alexistoigo/lab#algo
-[Exponenciação Binária]: todo
-[Algoritmo de Euclides]: todo
+[Exponenciação Binária]: https://github.com/alexistoigo/lab/blob/master/Matematica/rep/binpow.md#exponencia%C3%A7%C3%A3o-bin%C3%A1ria
+[Algoritmo de Euclides]: https://github.com/alexistoigo/lab/blob/master/Matematica/rep/gcd.md#algoritmo-euclidiano-para-calcular-o-maior-divisor-comum
 [Algoritmo de Euclides Estendido]: todo
 [Números de Fibonacci]: todo
 [Crivo de Eratóstenes]: todo
