@@ -1,4 +1,4 @@
-[Algo]
+[Matemática]
 
 # Algoritmo Euclidiano para calcular o Maior Divisor Comum
 
@@ -47,4 +47,4 @@ int gcd (int a, int b) {
 ````
 
 
-[Algo]: https://github.com/alexistoigo/lab#algo
+[Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica

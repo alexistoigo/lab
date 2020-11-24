@@ -1,4 +1,4 @@
-[Algo]
+[Matemática]
 
 # Crivo de Eratóstenes
 
@@ -28,4 +28,4 @@ Esse código marca primeiro todos os números, exceto zero e um, como números p
 Usando essa implementação, o algoritmo consome ***O ( n )*** da memória (obviamente) e executa ***O ( n log registros n )***
 
 
-[Algo]: https://github.com/alexistoigo/lab#algo
+[Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica

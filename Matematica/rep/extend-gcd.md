@@ -1,4 +1,4 @@
-[Algo]
+[Matemática]
 
 # Algoritmo Euclidiano Estendido
 
@@ -56,5 +56,5 @@ int gcd(int a, int b, int& x, int& y) {
 ````
 
 
-[Algo]: https://github.com/alexistoigo/lab#algo
+[Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica
 [algoritmo euclidiano]: https://github.com/alexistoigo/lab/blob/master/Matematica/rep/gcd.md#algoritmo-euclidiano-para-calcular-o-maior-divisor-comum

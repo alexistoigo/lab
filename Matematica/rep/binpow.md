@@ -1,4 +1,4 @@
-[Algo]
+[Matemática]
 
 # Exponenciação Binária
 
@@ -73,4 +73,4 @@ long long binpow(long long a, long long b, long long m) {
 - Número de caminhos de comprimento k em um grafo;
 - Multiplicar o módulo de dois números *m*.
 
-[Algo]: https://github.com/alexistoigo/lab#algo
+[Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica
