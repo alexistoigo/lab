@@ -1,6 +1,6 @@
 [Algo]
 
-#Exponenciação Binária
+# Exponenciação Binária
 
 A exponenciação binária é um método que permite calcular ***a^n*** usando apenas ***O ( logn )*** multiplicações (em vez de **O ( n )** multiplicações exigidas pela abordagem ingênua).
 
@@ -22,7 +22,7 @@ Desde o numero *n* tem exatamente *[log n] + 1* dígitos na base 2, só precisam
 
 Portanto, só precisamos conhecer uma maneira rápida de computá-los. Felizmente, isso é muito fácil, pois um elemento na sequência é apenas o quadrado do elemento anterior.
 
-###Implementação
+### Implementação
 
 Abordagem recursiva:
 
