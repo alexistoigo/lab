@@ -1,6 +1,6 @@
 [Algo]
 
-#Algoritmo Euclidiano para calcular o Maior Divisor Comum
+# Algoritmo Euclidiano para calcular o Maior Divisor Comum
 
 Dados dois inteiros não negativos *a* e *b*, temos de encontrar seu GCD (maior divisor comum), ou seja, o maior número que é um divisor de ambos *a* e *b*. É comumente denotado por ***mdc ( a , b )***.
 
@@ -8,14 +8,14 @@ Quando um dos números é zero, enquanto o outro é diferente de zero, seu maior
 
 O algoritmo euclidiano, discutido abaixo, permite encontrar o maior divisor comum de dois números *a* e *b* em ***O ( log min ( a , b ) )***.
 
-###Algoritmo
+### Algoritmo
 
 O algoritmo é extremamente simples:
 
 ![Fórmula](https://quicklatex.com/cache3/d6/ql_3d720d273ebc57ad75e3cb3577ba05d6_l3.png)
 
 
-###Implementação
+### Implementação
 
 ````cpp
 int gcd (int a, int b) {
