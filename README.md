@@ -10,6 +10,6 @@
 [Estrutura de Dados]: todo
 [Geometria]: todo
 [Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos
-[Matemática]: todo
+[Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica
 [Processamento de String]: https://github.com/alexistoigo/lab/blob/master/Processamento%20de%20String/main.md#processamento-de-string
 [Programação Dinâmica]:todo
