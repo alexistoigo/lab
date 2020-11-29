@@ -1,3 +1,6 @@
+[Programação Dinâmica]
+
+
 # Longest Common Subsequence
 
 
@@ -51,3 +54,6 @@ O algorítmo funciona da seguinte maneira.
 * Preencha cada célula da tabela usando a seguinte lógica: se o caractere que corresponde à linha atual e à coluna atual corresponderem, preencha a célula atual adicionando um ao elemento diagonal. Aponte uma seta para a célula diagonal.
 * Caso contrário, pegue o valor máximo da coluna anterior e o elemento da linha anterior para preencher a célula atual. Aponte uma seta para a célula com valor máximo. Se eles forem iguais, aponte para qualquer um deles.
 * O valor na última linha e na última coluna é o comprimento da maior subsequência comum.
+
+
+[Programação Dinâmica]: https://github.com/alexistoigo/lab/blob/master/Programacao%20Dinamica/main.md#programa%C3%A7%C3%A3o-din%C3%A2mica

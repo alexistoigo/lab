@@ -1,3 +1,6 @@
+[Programação Dinâmica]
+
+
 # Problema da Mochila (KnapsacK- 0/1)
 
 Imagine que um um ladrão irá roubar um museu com uma mochila que suporta um determinado peso. Ele vê uma quantidade de obras de arte valiosas, cada uma tem um respectivo valor, e um peso. Com essas informações, o ladrão quer saber qual o maior valor que ele pode roubar e carregar em sua mochila?
@@ -54,3 +57,5 @@ Com o limite de peso j, as seleções ótimas entre os pacotes {1, 2, ..., i-1, 
 Se o pacote i não for selecionado, K[i][j] é o valor máximo possível ao selecionar entre os pacotes {1, 2, ..., i - 1} com limite de peso de j. Então você tem K[i][j] = K[i - 1][j]. 
 
 Se o pacote i for selecionado, então K[i][j] = value[i] mais o valor máximo pode ser obtido selecionando-se entre embalagens {1, 2, ..., i - 1} com limite de peso (j-weight[i]). Ou seja, em termos do valor que você tem é K[i][j] = value[i] + K[i-1][j-weight[i]].
+
+[Programação Dinâmica]: https://github.com/alexistoigo/lab/blob/master/Programacao%20Dinamica/main.md#programa%C3%A7%C3%A3o-din%C3%A2mica

@@ -1,3 +1,5 @@
+[Programação Dinâmica]
+
 # Problema do Troco (coin change)
 
 
@@ -30,3 +32,6 @@ int min_coins(int n, int m, int * vet){
     return dp[m];
 }
 ```
+
+
+[Programação Dinâmica]: https://github.com/alexistoigo/lab/blob/master/Programacao%20Dinamica/main.md#programa%C3%A7%C3%A3o-din%C3%A2mica

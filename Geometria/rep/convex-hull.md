@@ -1,3 +1,5 @@
+[Geometria]
+
 # Convex Hull
 
 Este algoritmo tem como objetivo considerar N pontos de um plano, e gerar um casco convexo, ou seja, o menor polígono convexo que contém todos os pontos dados.
@@ -108,3 +110,5 @@ int main(){
 	return 0;
 }
 ```
+
+[Geometria]: https://github.com/alexistoigo/lab/blob/master/Geometria/main.md#geometria

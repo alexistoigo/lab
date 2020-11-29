@@ -1,3 +1,5 @@
+[Geometria]
+
 # Intersecção de segmentos
 
 Você recebe dois segmentos (a, b) e (c,d). Você tem que verificar se eles se cruzam. Claro, você pode encontrar sua interseção e verificar se não está vazia, mas isso não pode ser feito em inteiros para segmentos com coordenadas inteiras. A abordagem descrita aqui pode funcionar em inteiros.
@@ -33,4 +35,4 @@ bool check_inter(const pt& a, const pt& b, const pt& c, const pt& d) {
 
 ```
 
-
+[Geometria]: https://github.com/alexistoigo/lab/blob/master/Geometria/main.md#geometria

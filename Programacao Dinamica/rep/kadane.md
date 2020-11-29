@@ -1,3 +1,6 @@
+[Programação Dinâmica]
+
+
 # Subarray Contíguo de Maior Soma (Algoritmo de Kadane)
 
 
@@ -31,3 +34,6 @@ int main() {
     return 0; 
 } 
 ```
+
+
+[Programação Dinâmica]: https://github.com/alexistoigo/lab/blob/master/Programacao%20Dinamica/main.md#programa%C3%A7%C3%A3o-din%C3%A2mica
