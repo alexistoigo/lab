@@ -2,10 +2,10 @@
 
 # Programação Dinâmica
 
--[Kadane]
--[lsc]
--[Mochila]
--[Coin Change]
+- [Kadane]
+- [lsc]
+- [Mochila]
+- [Coin Change]
 
 
 [Algo]: https://github.com/alexistoigo/lab#algo
