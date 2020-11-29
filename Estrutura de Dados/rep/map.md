@@ -118,3 +118,6 @@ Saída esperada
 ```
 4
 ```
+
+
+[Estrutura de Dados]: https://github.com/alexistoigo/lab/blob/master/Estrutura%20de%20Dados/main.md#estrutura-de-dados

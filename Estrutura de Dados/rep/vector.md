@@ -33,3 +33,5 @@ Exemplo de Saída para o código acima:
 3 5 3 1
 ```
 
+
+[Estrutura de Dados]: https://github.com/alexistoigo/lab/blob/master/Estrutura%20de%20Dados/main.md#estrutura-de-dados

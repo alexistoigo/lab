@@ -7,7 +7,7 @@
 - [Processamento de String]
 - [Programação Dinâmica]
 
-[Estrutura de Dados]: todo
+[Estrutura de Dados]: https://github.com/alexistoigo/lab/blob/master/Estrutura%20de%20Dados/main.md#estrutura-de-dados
 [Geometria]: todo
 [Grafos]: https://github.com/alexistoigo/lab/blob/master/Grafos/main.md#grafos
 [Matemática]: https://github.com/alexistoigo/lab/blob/master/Matematica/main.md#matem%C3%A1tica
