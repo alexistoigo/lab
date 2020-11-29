@@ -1,4 +1,6 @@
-#Stack
+[Estrutura de Dados]
+
+# Stack
 
 Pilhas são um tipo de estrutura, é modelado para funcionar de maneira que último elemento a entrar, é o primeiro a sair - LIFO (Last Input, First Output). Desta forma os elementos só podem entrar ou sair por um lado da estrutura, o topo.
 

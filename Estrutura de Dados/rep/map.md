@@ -1,8 +1,10 @@
-#Map
+[Estrutura de Dados]
+
+# Map
 
 O mapa é uma estrutura associativa que armazena elementos em chave-valor. Para usar o map e suas funções no C++, é preciso incluir a biblioteca \<map> ou a biblioteca padrão do C++ com toda a STL inclusa \<bits/stdc++.h> 
 
-Mapas são geralmente usados ​​para classificar e identificar exclusivamente os elementos, ou seja, cada elemento armazenado no map possui um valor correspondente associado a essa chave.
+Mapas são geralmente usados para classificar e identificar exclusivamente os elementos, ou seja, cada elemento armazenado no map possui um valor correspondente associado a essa chave.
 
 Em um mapa, os elementos dentro dele são sempre ordenados por sua chave seguindo um critério de ordenação próprio (strings em ordem alfabética, números em ordem crescente). É possível também criar mapas não ordenados (unordered_map).
 

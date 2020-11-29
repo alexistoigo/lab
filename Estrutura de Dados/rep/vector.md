@@ -1,6 +1,6 @@
-# Estrutura de Dados
+[Estrutura de Dados]
 
-##Vector
+# Vector
 
 Tem comportamento semelhante ao de arrays normais. A principal diferença é a capacidade de ter tamanho dinâmico.
 
@@ -32,3 +32,4 @@ Exemplo de Saída para o código acima:
 ```
 3 5 3 1
 ```
+

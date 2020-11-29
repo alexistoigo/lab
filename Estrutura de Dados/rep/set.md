@@ -1,4 +1,6 @@
-#Set
+[Estrutura de Dados]
+
+# Set
 
 Um set é um contêiner que possui um conjunto de objetos exclusivos, ou seja cada elemento pode aparecer no set apenas uma vez. Depois de adicionado, um valor não pode ser modificado dentro do set, apenas podem ser removidos.
 

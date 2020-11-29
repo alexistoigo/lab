@@ -1,3 +1,5 @@
+[Estrutura de Dados]
+
 # Union Find
 
 Uma explicação básica e rápida sobre union find é a seguinte. Você possui vários nodos, que estão contidos em grupos distindos. A qualquer momento, você pode querer saber a qual grupo determinado nodo faz parte. Além disso, você pode juntar 2 grupos formando apenas um. O objetivo do algoritmo, é, sempre que for feito uma consulta, você conseguir dizer se dois nodos estão no mesmo grupo ou não.
@@ -52,3 +54,5 @@ int main(){
 }
 
 ```
+
+[Estrutura de Dados]: todo
